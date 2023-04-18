@@ -17,4 +17,7 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
-
+# Repository
+repo_url: 'https://github.com/RyanFHO/wetboek-apv/'
+repo_name: 'Zevenbergen APV'
+edit_uri: 'https://github.com/RyanFHO/wetboek-apv'
