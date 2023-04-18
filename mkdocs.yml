@@ -17,15 +17,11 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
+   primary: deep orange
 # Repository
 repo_url: 'https://github.com/RyanFHO/wetboek-apv/'
 repo_name: 'Zevenbergen APV'
 edit_uri: 'https://github.com/RyanFHO/wetboek-apv'
 # Copyright
 copyright: Copyright &copy; 2023 Zevenbergen
-
-theme:
-  palette:
-    primary: deep orange
-
 
