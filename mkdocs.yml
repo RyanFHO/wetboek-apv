@@ -1,8 +1,16 @@
 # Project information
-site_name: ZevenbergenRP APV
-site_url: 'https://wetboek.Zevenbergen.nl/'
-site_description: 'APV Van Zevenbergen'
-site_author: 'Zevenbergen'
+site_name: Zevenbergen APV
+site_description: 'APV Zevenbergen'
+site_author: 'ZevenbergenRP'
+
+# Copyright
+copyright: Copyright &copy; 2023 Zevenbergen
+
+# Repository
+repo_url: 'https://github.com/RyanFHO/wetboek-apv'
+repo_name: 'Zevenbergen APV'
+edit_uri: 'https://github.com/RyanFHO/wetboek-apv/tree/main'
+
 # Congiguration
 theme:
   name: material
@@ -17,13 +25,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-# Repository
-repo_url: 'https://github.com/RyanFHO/wetboek-apv/'
-repo_name: 'Zevenbergen APV'
-edit_uri: 'https://github.com/RyanFHO/wetboek-apv'
-# Copyright
-copyright: Copyright &copy; 2023 Zevenbergen
-#Indeling
 nav:
   - Home: index.md
-  - Algemene Plaatselijke Verordening: APV.md
+  - Algemene Plaatselijke Verordening: apv.md
