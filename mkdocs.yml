@@ -1,6 +1,19 @@
 theme:
   name: material
-
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
 # Project information
 site_name: Zevenbergen APV
 site_description: 'APV Zevenbergen'
