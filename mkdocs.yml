@@ -9,7 +9,6 @@ theme:
 #   features:
 #     - navigation.tabs
   palette:
-    primary: deep orange
     - scheme: default
       toggle:
         icon: material/lightbulb
@@ -24,4 +23,9 @@ repo_name: 'Zevenbergen APV'
 edit_uri: 'https://github.com/RyanFHO/wetboek-apv'
 # Copyright
 copyright: Copyright &copy; 2023 Zevenbergen
+
+theme:
+  palette:
+    primary: deep orange
+
 
