@@ -13,7 +13,7 @@ Zevenbergen heeft verschillende discord servers die zijn goed gekeurd door het s
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Tedeapolis RolePlay| Main discord server van Zevenbergen | [Invite](https://discord.gg/zbrp) |
+|Zevenbergen RolePlay| Main discord server van Zevenbergen | [Invite](https://discord.gg/zbrp) |
 |In Development|
 |In Development|
 |In Development|
