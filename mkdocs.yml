@@ -14,8 +14,8 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   language: nl
-      extra_css:
-  - stylesheets/extra.css
+  extra_css:
+- stylesheets/extra.css
 
   # Project information
 site_name: Zevenbergen Algemene Plaats Vordering
