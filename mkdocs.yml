@@ -14,17 +14,7 @@ edit_uri: 'https://github.com/RyanFHO/wetboek-apv/tree/main'
 # Congiguration
 theme:
   name: material
-#   features:
-#     - navigation.tabs
-  palette:
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+#Features
 nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
