@@ -5,7 +5,7 @@ site_description: 'APV Van Zevenbergen'
 site_author: 'Zevenbergen'
 # Congiguration
 theme:
-  palette:
+  name: material
     primary: deep orange
 # Repository
 repo_url: 'https://github.com/RyanFHO/wetboek-apv/'
