@@ -14,8 +14,10 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   language: nl
-  
-# Project information
+      extra_css:
+  - stylesheets/extra.css
+
+  # Project information
 site_name: Zevenbergen Algemene Plaats Vordering
 site_description: 'APV voor de FiveM Stad: Zevenbergen'
 site_author: 'ZevenbergenRP'
