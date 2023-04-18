@@ -13,6 +13,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  favicon: img/10776_main.png
+  logo: img/10776_main.png
+  language: nl
   
 # Project information
 site_name: Zevenbergen APV
