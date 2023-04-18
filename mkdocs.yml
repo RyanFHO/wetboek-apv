@@ -1,3 +1,6 @@
+theme:
+  name: material
+
 # Project information
 site_name: Zevenbergen APV
 site_description: 'APV Zevenbergen'
@@ -11,9 +14,6 @@ repo_url: 'https://github.com/RyanFHO/wetboek-apv'
 repo_name: 'Zevenbergen APV'
 edit_uri: 'https://github.com/RyanFHO/wetboek-apv/tree/main'
 
-# Congiguration
-theme:
-  name: material
 #Features
 nav:
   - Home: index.md
