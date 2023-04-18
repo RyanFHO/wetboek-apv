@@ -1,4 +1,8 @@
-site_name: ZevenbergenRP
+# Project information
+site_name: ZevenbergenRP APV
+site_url: 'https://wetboek.Zevenbergen.nl/'
+site_description: 'APV Van Zevenbergen'
+site_author: 'Zevenbergen'
 # Congiguration
 theme:
   name: material
