@@ -6,7 +6,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Zevenbergen, wordt hierbij in
 
 ## Algemene Bepalingen
 
-### A1 - Reikwijdte
+### A1 - Algemene kaders
 
 1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Zevenbergen.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
@@ -20,23 +20,20 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Zevenbergen, wordt hierbij in
 ### A3 - Strafbepaling
 
 1. De straffen zijn onderverdeeld in zeven categorieën:
-    * Categorie 1: een ban van 8 uur
-    * Categorie 2: een ban van maximaal 1 dag
-    * Categorie 3: een ban van maximaal 2 dagen
-    * Categorie 4: een ban van maximaal 3 dagen
-    * Categorie 5: een ban van maximaal 1 week
-    * Categorie 6: een ban van maximaal 1 maand
+    * Categorie 1: een ban van 12 uur
+    * Categorie 2: een ban van maximaal 2 dag
+    * Categorie 3: een ban van maximaal 3 dagen
+    * Categorie 4: een ban van maximaal 4 dagen
+    * Categorie 5: een ban van maximaal 1.5 week
+    * Categorie 6: een ban van maximaal 2 maanden
     * Categorie 7: Account wipe
     * Categorie 8: Permanente ban
 
 2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen de Hoge Raad en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
-
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
 4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
-5. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
-6. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7
-7. Bans worden uitgedeeld op basis van de GTA licentie en ip-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
-8. Een warning dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.
+5. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7
+6. Een warning dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.
 
 ## Overtredingen - Verstoring openbare orde (RP)
 
