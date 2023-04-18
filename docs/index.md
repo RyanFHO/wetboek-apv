@@ -143,9 +143,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Er wordt van personen geacht realistisch rijgedrag aan te houden. Dus niet met circuit auto’s door de woestijn heen rijden met 100 km/u.
 2. Overtredingen van lid 1 worden bestraft met een straf van de 1e categorie.
-3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig. Pas hierbij dus ook de snelheid aan voor het type voertuig. Een lijst met voertuigen en de verschillende classificaties is [hier](https://wetboek.tedeapolis.nl/offroadvoertuigen/) te vinden.
-4. In de spoorwegtunnels die zich onder de stad bevinden en alle tunnels die daar direct op aangesloten zijn is het enkel toegestaan om met voertuigen te rijden die de classificatie A hebben en dus onder het kopje Off-Road staan.
-5. De overtreding zoals beschreven in lid 1 staat bekend als “GTA style driving”.
+3. In de spoorwegtunnels die zich onder de stad bevinden en alle tunnels die daar direct op aangesloten zijn is het enkel toegestaan om met voertuigen te rijden die de classificatie A hebben en dus onder het kopje Off-Road staan.
+4. De overtreding zoals beschreven in lid 1 staat bekend als “GTA style driving”.
 
 ### Artikel 11 - Value of Life
 
@@ -352,7 +351,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Bij herhaling van het overtreden van lid 2 zal een straf van de 2e categorie volgen en wordt er een gangstrike uitgedeeld aan de organisatie.
 5. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplay scenario houden. Dit mag met hun volledige organisatie of met leden van andere officiële of onofficïele organisatie. Hierbij geldt een maximum van 2 groepen die mogen samenwerken.
 6. Een voorwaarde voor het samenwerken tussen criminele organisaties is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurd tijdens het witwassen van geld. Dit is ter beoordeling van de Hoge Raad van Zevenbergen.
-7. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het [format](/apv/#bijlage-2) in het daarvoor aangemaakte kanaal in de Zevenbergen Discord.
+7. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het in het daarvoor aangemaakte kanaal in de Zevenbergen Discord.
 8. Bij overtreding of niet nakomen van lid 5, 6 en/of 7 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het roleplayscenario.
 9. Bij herhaling van het overtreden of niet nakomen van lid 5, 6 en/of 7 zal naast een straf van de 6e categorie ook een gangstrike uitgedeeld worden.
 
@@ -435,7 +434,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Overheidsdiensten zijn uitgerust met bodycams.
     * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycambeelden als bewijs willen gebruiken.
     * Burgers kunnen alleen met hun telefoon filmen.
-    * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen. Zie [bijlage 1](/apv/#bijlage-1)
+    * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen.
 2. De voorbeelden benoemd in lid zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
 
 ### Artikel 43 - Journalistiek
@@ -473,7 +472,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 49 - Voertuigverlies in water (bij achtervolging)
 
-1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze in beslag worden genomen conform [Artikel A7 - Inbeslagname](https://wetboek.tedeapolis.nl/wetboek/#a7-inbeslagname).
+1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze in beslag worden genomen conform [Artikel A7 - Inbeslagname]
 
 ### Artikel 50 - Schieten van uit een voertuig
 
@@ -497,8 +496,8 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 52 - Deelname aan overheidsberoep
 
-1. Een werkgever van een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) is verplicht om een geldig VOG te kunnen overhandigen van zijn werknemers.
-2. Een werknemer moet in het bezit zijn van een geldig VOG als deze een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) uitvoert.
+1. Een werkgever van een overheidsberoep is verplicht om een geldig VOG te kunnen overhandigen van zijn werknemers.
+2. Een werknemer moet in het bezit zijn van een geldig VOG als deze een overheidsberoep uitvoert.
 3. Overtreding van lid 2 zal resulteren in een straf van de 2e categorie en ontslag bij dit beroep een verbod op uitoefenen hier van 1 maand.
 4. Als een werkgever herhaaldelijk lid 1 overtreed zal de Hogeraad zich buigen over een gepaste straf
 
