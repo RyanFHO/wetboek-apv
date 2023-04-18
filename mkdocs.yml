@@ -11,10 +11,10 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/weather-night
+        icon: material/lightbulb
         name: Switch to dark mode
     - scheme: slate
       toggle:
-        icon: material/weather-sunny
+        icon: material/lightbulb-outline
         name: Switch to light mode
 
