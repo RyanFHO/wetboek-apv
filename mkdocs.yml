@@ -5,19 +5,8 @@ site_description: 'APV Van Zevenbergen'
 site_author: 'Zevenbergen'
 # Congiguration
 theme:
-  name: material
-#   features:
-#     - navigation.tabs
   palette:
-    - scheme: default
-      toggle:
-        icon: material/lightbulb
-        name: Switch to dark mode
-    - scheme: slate
-      toggle:
-        icon: material/lightbulb-outline
-        name: Switch to light mode
-   primary: deep orange
+    primary: deep orange
 # Repository
 repo_url: 'https://github.com/RyanFHO/wetboek-apv/'
 repo_name: 'Zevenbergen APV'
