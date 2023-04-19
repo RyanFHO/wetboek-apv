@@ -6,7 +6,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Zevenbergen, wordt hierbij in
 
 ## Algemene Bepalingen
 
-### A1 - Algemene kaders
+### A1 - Algemene kaders & verhoudingen
 
 1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Zevenbergen.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
